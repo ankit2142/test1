@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
- cout<<"hi ji";
-      
+  cout<<"my name is ankit";
     
 }
