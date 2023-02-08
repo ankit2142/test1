@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-   cout<<"hare krishna";
-   cout<<"ankit";
-   cout<<"hi hello";
+  cout<<"my name is ankit";
+  int x=0;
+  x=x*10;
+      
 }
