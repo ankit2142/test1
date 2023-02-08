@@ -4,6 +4,8 @@ using namespace std;
 int main()
 {
    cout<<"hare krishna";
-   cout<<"ankit";
-   cout<<"hi hello";
+   vector<int>v;
+   for(int i=0;i<4;i++)
+    v.push_back(i);
+    
 }

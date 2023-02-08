@@ -3,6 +3,9 @@ using namespace std;
 
 int main()
 {
-   cout<<"hare krishna";
-   int x=10;
+   int x=0;
+   for(int i=0;i<10;i++)
+   {
+      x+=10;
+   }
 }
