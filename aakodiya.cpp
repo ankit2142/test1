@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
-   cout<<"hare krishna";
-   int x=10;
+   cout<<"how are u";
+   int x=0;
+   x=x+100;
+   
 }
